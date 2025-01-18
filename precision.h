@@ -1,7 +1,8 @@
 #include<math.h>
 
-namespace Peter {
+namespace arcmx {
 
     typedef float real;
     #define real_sqrt sqrtf
+    #define real_pow powf
 }

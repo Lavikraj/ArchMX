@@ -1,6 +1,6 @@
 #include<precision.h>
 
-namespace Peter {
+namespace arcmx {
 
     struct vec3{
         
